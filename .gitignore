@@ -1,0 +1,24 @@
+Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf
+qmk keyboard/qmk shortcut.lnk
+
+# Kicad temporary files
+Schematic and PCB/*.bak
+Schematic and PCB/*.bck
+Schematic and PCB/*.kicad_pcb-bak
+Schematic and PCB/*.kicad_sch-bak
+Schematic and PCB/*.sch-bak
+Schematic and PCB/fp-info-cache
+Schematic and PCB/fp-lib-table
+Schematic and PCB/*.net
+Schematic and PCB/svg
+Schematic and PCB/gerber
+Schematic and PCB/xenophon-backups
+Schematic and pcb/xenophon.kicad_prl
+
+Images/Sne
+Images/Arkiv
+Chassi/Keys/customizer.scad
+Chassi/test
+Chassi/*.stl
+Chassi/*.FCStd1
+Chassi/base_tilted_holes.FCStd1
