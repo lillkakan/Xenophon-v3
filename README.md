@@ -1,8 +1,8 @@
-# Xenophon split keyboard
+# Xenophon v3 split keyboard
 
 Xenophon is a split keyboard with a design based on the ErgoDox EZ but for less keys for the thumps and another layout for the side keys.
 
-![Alt text](./Images/xenophon_keyless.png?raw=true "The PCB for the keyboard.")
+![Alt text](./Images/Xenophon_v3.png?raw=true "The PCB for the keyboard.")
 
 ## Features
 
@@ -22,20 +22,16 @@ The two processors sent data through the serial bitbang protocol.
 
 ### Smart flashing design
 
-I did not want to include a usb port on the right PCB i added two usb pins (D+ and D-) on both sides so that i could solder all the componens except the left processors and flash the right side easily.
+With Usb on both sides it's easy to flash both processors.
 
 ### USB-C
 
-The PCB features a usb type c port with capability to connect via a usb-c to usb-c cable or a standard usb-c to usb-a cable.
+The PCB features two usb type c ports with capability to connect via a usb-c to usb-c cable or a standard usb-c to usb-a cable.
 
 ### 3D printable chassi
 
 The chassi for the keyboard is 3D printable and is designed to be as small as possible while still protecting the PCB and the electrical components.
 
-### Relativly low cost
-
-The total cost of the key board is around 1 300 SEK.
-Which is less than similar keyboards like the ErgoDox EZ.
 
 ## Made with
 
